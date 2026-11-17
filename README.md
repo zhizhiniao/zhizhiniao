@@ -4,7 +4,7 @@
 
 A video creator building practical tools with AI — for media, writing, publishing, and the work in between.
 
-[一幕 YimuCraft](#一幕-yimucraft) · [禾高子](#禾高子) · [发条 Fatio](#发条-fatio) · [帧流 FrameFlow](#帧流-frameflow)
+[一幕 YimuCraft](#一幕-yimucraft) · [禾高子](#禾高子) · [发条 Fatio](#发条-fatio) · [帧流 FrameFlow](#帧流-frameflow) · [造梦室 DreamStudio](#造梦室-dreamstudio)
 
 ---
 
@@ -53,6 +53,18 @@ A local Windows workspace for multi-platform drafts, publishing queues, and cont
 A Windows video downloader and local media library, with app update checks.
 
 [**查看项目 →**](https://github.com/zhizhiniao/FrameFlow) · [下载 Windows 版](https://github.com/zhizhiniao/FrameFlow/releases/latest)
+
+---
+
+## 造梦室 DreamStudio
+
+<a href="https://github.com/zhizhiniao/DreamStudio"><img src="assets/v2/dreamstudio.png" width="100%" alt="造梦室 DreamStudio：字幕、配音与视频制作；知知鸟角色头部特写。"></a>
+
+**从视频素材到字幕、配音、封面与发布准备。** Windows 本机视频内容工作台，支持本地导入、YouTube 下载、字幕翻译与中文配音、横竖封面和人工审核。在线下载、翻译、配音与发布需自行配置相应服务；CreatorHub 为可选外部采集组件。项目保留 Y2A-Auto 来源标识。
+
+A local Windows video workflow for imports, YouTube downloads, subtitles, dubbing, covers, and publishing preparation, with human review.
+
+[**查看项目 →**](https://github.com/zhizhiniao/DreamStudio) · [下载 Windows 版](https://github.com/zhizhiniao/DreamStudio/releases/latest) · [使用说明](https://github.com/zhizhiniao/DreamStudio#下载)
 
 ---
 
